@@ -1,0 +1,31 @@
+{
+  "name": "rScraper",
+  "version": "1.0.0",
+  "description": "Scrap like a man",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaobuu/rScraper"
+  },
+  "keywords": [
+    "scrap",
+    "ctrip",
+    "review",
+    "nodejs"
+  ],
+  "author": "Tianyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaobuu/rScraper/issues"
+  },
+  "homepage": "https://github.com/xiaobuu/rScraper",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "co": "^4.5.4",
+    "co-request": "^0.2.1",
+    "iconv-lite": "^0.4.11"
+  }
+}
